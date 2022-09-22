@@ -29,8 +29,8 @@
 ### Connect with me
 
 <a href="https://twitter.com/toNwosu">
-    <img align="center" src="https://img.shields.io/badge/toNwosu%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/toNwosu%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"/>
 </a>
 <a href="https://www.linkedin.com/in/tochukwu-nwosu-4b237a23a/">
-    <img align="center" src="https://img.shields.io/badge/Tochukwu%20Nwosu%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Tochukwu%20Nwosu%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
