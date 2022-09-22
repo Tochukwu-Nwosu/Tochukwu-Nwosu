@@ -3,13 +3,13 @@
 <br>
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tochukwu-nwosu&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Tochukwu's streak">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tochukwu-nwosu&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Tochukwu's streak">
 </p>
 
 <br>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=tochukwu-nwosu&count_private=true&show_icons=true&theme=midnight-purple&locale=en&custom_title=Tochukwu's Github Stats" alt="Tochukwu's stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tochukwu-nwosu&count_private=true&show_icons=true&theme=midnight-purple&locale=en&custom_title=Tochukwu's Github Stats" alt="Tochukwu's stats">
 </p>
 
 <br>
@@ -29,9 +29,8 @@
 ### Connect with me
 
 <a href="https://twitter.com/toNwosu">
-    <img src="https://img.shields.io/badge/toNwosu%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/toNwosu%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/tochukwu-nwosu-4b237a23a/">
-    <img src="https://img.shields.io/badge/Tochukwu%20Nwosu%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Tochukwu%20Nwosu%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
