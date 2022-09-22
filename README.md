@@ -16,13 +16,13 @@
 
 ### Expertise
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F0DB4F" alt="javascript"/>
-<img src="https://img.shields.io/badge/Python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%234B8BBE" alt="python"/>
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="django"/>
-<img src="https://img.shields.io/badge/java-%23ffffff.svg?style=for-the-badge&logo=java&logoColor=red" alt="java"/>
+<img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+<img align="center" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F0DB4F" alt="javascript"/>
+<img align="center" src="https://img.shields.io/badge/Python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%234B8BBE" alt="python"/>
+<img align="center" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+<img align="center" src="https://img.shields.io/badge/java-%23ffffff.svg?style=for-the-badge&logo=java&logoColor=red" alt="java"/>
 
 <br>
 
