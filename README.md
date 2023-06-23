@@ -19,9 +19,13 @@
   </a>
 </div>
 
+<br>
+
 ---
 
-### 🔥 Stats
+## 🔥 Stats
+
+<br>
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tochukwu-nwosu&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Tochukwu's streak">
@@ -33,8 +37,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tochukwu-nwosu&count_private=true&show_icons=true&theme=midnight-purple&locale=en" alt="Tochukwu's stats">
 </p>
 
+<br>
+
 ---
 
-### 🛠️ Expertise
+## 🛠️ Expertise
+
+<br>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,react,py,django,java,git,github,)
