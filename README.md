@@ -45,4 +45,4 @@
 
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,react,py,django,java,git,github,)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,react,next,py,django,java,git,github,)
