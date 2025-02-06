@@ -42,4 +42,4 @@
 
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript,typescript,react,next,py,django,java,git,github,)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,mui,tailwind,javascript,typescript,react,next,prisma,py,django,java,git,github,)
